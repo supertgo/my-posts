@@ -4,23 +4,20 @@ Context: This is a text representation of one of my presentations that I've made
 
 My main goal on this event is to show contents about programming foundation related with the subject that I am currently learning on my college. I truly believe that learning the foundations of the programming subject set is the way to go to be a good professional. Why? If you look at the previous 10 years, there was a lot of change with the programming languages, frameworks, and developer tools, but, the foundations still the same. So, if you understand the core, it will be easy to get into the opportunities that the market provide.
 
-### Plopfile
+### DRY Programming Principal and it's relation with Plopfile
 
 You can ask: “If you're going to show foundations content, why are you talking about [plopfile](https://plopjs.com/documentation/) (a file generator)?”. I've written three things, and I am going to explain each one separately.
 
-1. **Showing the tool for the rest of my teammates:**
-    
+**DRY:**  
+One of the most's know programming advices, which means, Don't Repeat Yourself. Why do you have to copy a file and changed it to your custom necessity if you can run a command and make the same thing but within a second?
+
+**Showing the tool for the rest of my teammates:**
 
 The tool was downloaded on two main projects that we work almost every day and me was the only one who knew about it.
 
-1. **Necessity:**
-    
+**Necessity:**
 
 As programmers, we know that we have to follow some rules to prevent the code to be a merge of the N ways to code, let N be the number of teammates that you have.
-
-1. **DRY:**  
-    One of the most's know programming advices, which means, Don't Repeat Yourself. Why do you have to copy a file and changed it to your custom necessity if you can run a command and make the same thing but within a second?
-    
 
 On the next slide, I showed the ways to do the same thing that was one of your main projects. Which one is correct? If a new teammate appears, which way should be followed?
 
